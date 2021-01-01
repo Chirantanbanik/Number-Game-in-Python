@@ -1,2 +1,2 @@
-# Number-Game-in-Python
-Hi Githubians, this is my First code in Github.
+# Guessing a Number by using Random function in Python
+Het there, this is my first code in GitHub.
